@@ -9,7 +9,7 @@ A high school student in china with _OCD_. Interested in .NET agile, open source
 
 ### Current Objectives
 
-1. Pass _National College Entrance Examination_.
+1. Pass the _National College Entrance Examination_.
 2. Write elegant code whenever possible. (OCD)
 
 ## Statics
